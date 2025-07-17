@@ -1,6 +1,8 @@
-Hi, I'm Karthikeyan 👋
+ <h1 align="center">Hi 👋, I'm Karthikeyan T</h1>
+<h3 align="center">🧪 Software QA Engineer | Manual & API Testing | Agile | Learning Selenium + Java</h3>
 
-  🧪 Software QA Engineer | Manual & API Testing | Agile | Learning Selenium + Java
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthiqa&label=Profile%20views&color=0e75b6&style=flat" alt="karthiqa" /> </p>
+
 
 ---
 
